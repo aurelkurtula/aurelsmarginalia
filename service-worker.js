@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/aurelsmarginalia/precache-manifest.47532e7ee87916bdf9b935aa12df2e79.js"
+  "/aurelsmarginalia/precache-manifest.35c5f31b9c1f352200ef5aa8f159a169.js"
 );
 
 workbox.clientsClaim();
